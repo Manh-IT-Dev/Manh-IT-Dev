@@ -91,9 +91,10 @@
 
 | # | Dự án | Link |
 |---|-------|------|
-| 1 | *(OOSD_Warehouse-Management-System)* | 🔗 https://github.com/KhanhNNV/OOSD_Warehouse-Management-System.git |
-| 2 | *(Tên dự án 2)* | 🔗 [GitHub](#) |
-| 3 | *(Tên dự án 3)* | 🔗 [GitHub](#) |
+| 1 | *OOSD_Warehouse-Management-System* | 🔗 https://github.com/KhanhNNV/OOSD_Warehouse-Management-System.git |
+| 2 | *EV-Service-Center-Maintenance-Management-System* | 🔗 https://github.com/KhanhNNV/LapTrinhJava-EV-Service-Center-Maintenance-Management-System.git |
+| 3 | *LTM_BoxChat* | 🔗 https://github.com/KhanhNNV/LTM_BoxChat.git |
+| 4 | * LTW_WebDocTruyen * | 🔗 https://github.com/KhanhNNV/LTW_WebDocTruyen.git |
 
 ---
 
@@ -103,7 +104,7 @@
 
 | # | Dự án | Link |
 |---|-------|------|
-| 1 | *(Tên dự án cá nhân 1)* | 🔗 [GitHub](#) |
+| 1 | *skyplain-ai* | 🔗 https://github.com/Manh-IT-Dev/skyplan-ai.git |
 | 2 | *(Tên dự án cá nhân 2)* | 🔗 [GitHub](#) |
 
 ---
@@ -112,9 +113,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manh_Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manh-IT-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manh_Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manh-IT-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
@@ -138,7 +139,7 @@
 
 ### 📬 Kết nối với tôi
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![https://github.com/Manh-IT-Dev](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![manhgp249@gmail.com](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
